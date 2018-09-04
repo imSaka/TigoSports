@@ -13,8 +13,8 @@ var cancha;
 var myFont;
 
 function preload(){
-  cancha = loadImage("/Images/cancha.png");
-  balon = loadImage("/Images/balon.png");
+  cancha = loadImage("https://imsaka.github.io/Images/balon.png");
+  balon = loadImage("https://imsaka.github.io/Images/balon.png");
   myFont = loadFont("font/Champion-Bantamweght.otf")
 }
 
